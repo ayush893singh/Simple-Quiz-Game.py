@@ -33,7 +33,7 @@ Terminal ya CMD me:
 python Simple-Quiz-Game.py
 
 ## Code
-
+```
 print("---Welcome to the Quiz Game---")
 print("--------------------------------")
 
@@ -83,8 +83,8 @@ else:
 print("\n-----------------------------")
 print(f" Quiz khatam! Aapka final score hai: {score}/4")
 print("--------Thank you--------")
-
-## Sample Output
+```
+## Output
 ---Welcome to the Quiz Game---
 --------------------------------
 -Question A: India ka capital kya hai?
