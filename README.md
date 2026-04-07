@@ -85,6 +85,7 @@ print(f" Quiz khatam! Aapka final score hai: {score}/4")
 print("--------Thank you--------")
 ```
 ## Output
+```
 ---Welcome to the Quiz Game---
 --------------------------------
 -Question A: India ka capital kya hai?
@@ -100,7 +101,7 @@ Enter your Answer(1/2/3/4) : 1
 -----------------------------
 Quiz khatam! Aapka final score hai: 3/4
 --------Thank you--------
-
+```
 ## Author
 Ayush Singh
 GitHub: https://github.com/ayush893singh
